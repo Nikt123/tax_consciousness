@@ -1,24 +1,10 @@
-# README
+## Table of contents
+* [General info](#general-info)
+* [How to use](#how-to-use)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## General info
+This application is for people who are interested in what they pay for in their taxes. People have to be aware of basic taxes.
 
-Things you may want to cover:
+## How to use
+Just enter your gross income and choose country. Choosing a country will change the currency. After this you will see form about all taxes.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
