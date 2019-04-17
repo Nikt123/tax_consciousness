@@ -19,6 +19,8 @@ gem 'coffee-rails', '~> 4.2'
 
 gem 'rubocop', '~> 0.67.2'
 
+gem 'pg'
+
 gem 'jquery-rails'
 
 gem 'turbolinks', '~> 5'
