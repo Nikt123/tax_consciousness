@@ -28,10 +28,12 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
+  gem 'rspec-rails', '~> 3.8'
   gem 'byebug', platform: :mri
 end
 
 group :development do
+  gem 'rspec-rails', '~> 3.8'
   gem 'listen', '~> 3.0.5'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
